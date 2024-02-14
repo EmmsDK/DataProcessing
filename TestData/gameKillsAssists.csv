@@ -1,4 +1,4 @@
-timestamp,event_type,participantId,participantName,position_x,position_y,dangerScore,totalDamageDone,victimId
+timestamp,eventType,participantId,participantName,positionX,positionY,dangerScore,totalDamageDone,victimId
 2.92,Kill,6,Shen,2129,12160,100,404,1
 4.48,Kill,7,Khazix,2200,12018,100,606,2
 4.48,Assist,6,Shen,2200,12018,100,269,2
