@@ -5,9 +5,9 @@ timestamp,eventType,participantId,participantName,positionX,positionY,dangerScor
 4.53,Kill,1,Jax,3464,13074,100,438,6
 4.53,Assist,2,MasterYi,3464,13074,100,245,6
 4.73,Kill,1,Jax,3274,12199,100,831,7
-6.41,Kill,7,Khazix,9477,6446,0,970,2
+6.41,Kill,7,Khazix,9477,6446,100,970,2
 6.41,Kill,2,MasterYi,9400,6528,100,996,7
-6.65,Kill,8,Sylas,10934,4356,0,797,5
+6.65,Kill,8,Sylas,10934,4356,100,797,5
 8.39,Kill,1,Jax,2950,13188,100,377,6
 8.8,Kill,7,Khazix,11635,2144,100,482,4
 8.98,Kill,5,Leona,12205,3217,100,220,7
