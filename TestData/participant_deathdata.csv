@@ -1,7 +1,0 @@
-timestamp,victimId,victimName,killerId,killerName,position_x,position_y,type,safetyStatus
-18.08,3,Veigar,7,Khazix,4309,9268,CHAMPION_KILL,0
-20.26,3,Veigar,7,Khazix,8939,870,CHAMPION_KILL,100
-25.75,3,Veigar,7,Khazix,4954,9609,CHAMPION_KILL,100
-31.41,3,Veigar,8,Sylas,10762,6404,CHAMPION_KILL,100
-33.21,3,Veigar,9,Ezreal,8910,5526,CHAMPION_KILL,100
-36.44,3,Veigar,7,Khazix,8710,8590,CHAMPION_KILL,100
