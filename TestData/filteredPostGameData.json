@@ -1,0 +1,1239 @@
+{
+    "metadata": {
+        "dataVersion": "2",
+        "matchId": "EUW1_6802086231",
+        "participants": [
+            "9nFTht795izeoOQoIQMOHtY01trPiRW8SC7kUFIqsDJtTEeNUbpxbRriCUtJ3sApIbpwIBNV44mFjg",
+            "7hSyI8OKEFPpadVyhqKmTOJlT6umda2FMt1sAeIcZ1WcxdATw7Tvu4ixaR8llqv9u2qPutnAsL9Shg",
+            "OosGFQGfn836eMPWWHKI4078RDJNVjtEN5rDdfGWkVKE9WQt57XOtBX7dJbKA2gCjvT2B2oKSOPvQA",
+            "GDyaku8KMFbw6-NeobFdpBjk0cH7HeEwcO1O6lJDWx5DlKXBJACwQboLx_8YpwIKIjQajzWtoYjFlQ",
+            "YXHmDXvWI5gKk7U3akJzmYR7-SUqINElADzyjLGaKOQ3uo114kFt0bgb9jfrbFyGv3wJY-fss-iGCA",
+            "a8PtUmwWlbJrEzU-nfibnfFXKmsStyk87eyureQ-juwhCH8cT9V7PIro5PogLxdME0DzYgHuuyl-Fg",
+            "735uoGC0wWXxRrYW7td31v_tqqAJkVJ3WIwoDAMnOCVvVL6gTw84KV5LFOQpwFkBdPGOQATvkx6ZHw",
+            "eVreMXaliubuCZDOSDs-HnMy3YSPNa3BoCKTUDDQBx3uotw36LQHmhYoJNWBxy5v0U5Wt_jV0yR80A",
+            "esX_22maBbJu3Sf7pHod9r65uxnslhai-EnVbgIGjdC4XhW3_5Pocq561XKKt80bZlP5CPvJ3kCoow",
+            "pnMNfdDjM97Gr0Qh67jTzEEfLefEI8qjsBxmojuIqGp7cpQPWeBBZ6jfv_UUeV3DqvUg06Rk3lphTg"
+        ]
+    },
+    "info": {
+        "gameCreation": 1707178760470,
+        "gameDuration": 2348,
+        "gameEndTimestamp": 1707181220255,
+        "gameId": 6802086231,
+        "gameMode": "CLASSIC",
+        "gameName": "teambuilder-match-6802086231",
+        "gameStartTimestamp": 1707178872321,
+        "gameType": "MATCHED_GAME",
+        "gameVersion": "14.2.556.3141",
+        "mapId": 11,
+        "platformId": "EUW1",
+        "queueId": 400,
+        "teams": [
+            {
+                "bans": [
+                    {
+                        "championId": 99,
+                        "pickTurn": 1
+                    },
+                    {
+                        "championId": 84,
+                        "pickTurn": 2
+                    },
+                    {
+                        "championId": 876,
+                        "pickTurn": 3
+                    },
+                    {
+                        "championId": 25,
+                        "pickTurn": 4
+                    },
+                    {
+                        "championId": 17,
+                        "pickTurn": 5
+                    }
+                ],
+                "objectives": {
+                    "baron": {
+                        "first": false,
+                        "kills": 1
+                    },
+                    "champion": {
+                        "first": false,
+                        "kills": 50
+                    },
+                    "dragon": {
+                        "first": false,
+                        "kills": 2
+                    },
+                    "horde": {
+                        "first": false,
+                        "kills": 0
+                    },
+                    "inhibitor": {
+                        "first": true,
+                        "kills": 3
+                    },
+                    "riftHerald": {
+                        "first": false,
+                        "kills": 0
+                    },
+                    "tower": {
+                        "first": true,
+                        "kills": 11
+                    }
+                },
+                "teamId": 100,
+                "win": true
+            },
+            {
+                "bans": [
+                    {
+                        "championId": 233,
+                        "pickTurn": 6
+                    },
+                    {
+                        "championId": 51,
+                        "pickTurn": 7
+                    },
+                    {
+                        "championId": 21,
+                        "pickTurn": 8
+                    },
+                    {
+                        "championId": 777,
+                        "pickTurn": 9
+                    },
+                    {
+                        "championId": 33,
+                        "pickTurn": 10
+                    }
+                ],
+                "objectives": {
+                    "baron": {
+                        "first": true,
+                        "kills": 1
+                    },
+                    "champion": {
+                        "first": true,
+                        "kills": 39
+                    },
+                    "dragon": {
+                        "first": true,
+                        "kills": 4
+                    },
+                    "horde": {
+                        "first": true,
+                        "kills": 6
+                    },
+                    "inhibitor": {
+                        "first": false,
+                        "kills": 0
+                    },
+                    "riftHerald": {
+                        "first": true,
+                        "kills": 1
+                    },
+                    "tower": {
+                        "first": false,
+                        "kills": 4
+                    }
+                },
+                "teamId": 200,
+                "win": false
+            }
+        ],
+        "tournamentCode": "",
+        "participants": [
+            {
+                "challenges": {
+                    "controlWardsPlaced": 0,
+                    "dragonTakedowns": 0,
+                    "goldPerMinute": 454.0979780906803,
+                    "kda": 2.3333333333333335,
+                    "killParticipation": 0.42,
+                    "killsNearEnemyTurret": 1,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 57,
+                    "maxLevelLeadLaneOpponent": 2,
+                    "soloKills": 3,
+                    "stealthWardsPlaced": 7,
+                    "takedownOnFirstTurret": 0,
+                    "takedowns": 21,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.19567592470243536,
+                    "teamElderDragonKills": 1,
+                    "teamRiftHeraldKills": 0,
+                    "visionScorePerMinute": 0.472574629508431,
+                    "wardTakedowns": 4
+                },
+                "championName": "Jax",
+                "damageDealtToBuildings": 14468,
+                "damageDealtToObjectives": 24063,
+                "damageDealtToTurrets": 14468,
+                "goldEarned": 17772,
+                "goldSpent": 17533,
+                "individualPosition": "TOP",
+                "inhibitorTakedowns": 2,
+                "lane": "TOP",
+                "participantId": 1,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5001,
+                        "flex": 5008,
+                        "offense": 5005
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8437,
+                                    "var1": 1673,
+                                    "var2": 1132,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8446,
+                                    "var1": 4672,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8444,
+                                    "var1": 1729,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8242,
+                                    "var1": 189,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8400
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8345,
+                                    "var1": 3,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8347,
+                                    "var1": 0,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8300
+                        }
+                    ]
+                },
+                "puuid": "9nFTht795izeoOQoIQMOHtY01trPiRW8SC7kUFIqsDJtTEeNUbpxbRriCUtJ3sApIbpwIBNV44mFjg",
+                "riotIdGameName": "gambalacin",
+                "riotIdTagline": "3329",
+                "role": "SOLO",
+                "summonerId": "cDxiXZODhvtjiGTSoS_aET_GsY-KWkQ2HiP7-RSesxaC3uGltorCWrrrDA",
+                "summonerName": "gambalacin04",
+                "teamEarlySurrendered": false,
+                "teamId": 100,
+                "teamPosition": "TOP",
+                "totalAllyJungleMinionsKilled": 3,
+                "totalDamageDealt": 210367,
+                "totalDamageDealtToChampions": 28986,
+                "totalDamageTaken": 41089,
+                "totalEnemyJungleMinionsKilled": 6,
+                "turretTakedowns": 5,
+                "visionScore": 18,
+                "wardsKilled": 4,
+                "wardsPlaced": 7,
+                "win": true
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 2,
+                    "dragonTakedowns": 2,
+                    "goldPerMinute": 498.52359737296433,
+                    "kda": 2.8333333333333335,
+                    "killParticipation": 0.68,
+                    "killsNearEnemyTurret": 1,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 52.00000011920929,
+                    "maxLevelLeadLaneOpponent": 2,
+                    "soloKills": 5,
+                    "stealthWardsPlaced": 7,
+                    "takedownOnFirstTurret": 0,
+                    "takedowns": 34,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.3468820458169627,
+                    "teamElderDragonKills": 1,
+                    "teamRiftHeraldKills": 0,
+                    "visionScorePerMinute": 0.9920509165253245,
+                    "wardTakedowns": 2
+                },
+                "championName": "MasterYi",
+                "damageDealtToBuildings": 1545,
+                "damageDealtToObjectives": 43529,
+                "damageDealtToTurrets": 1545,
+                "goldEarned": 19511,
+                "goldSpent": 16900,
+                "individualPosition": "JUNGLE",
+                "inhibitorTakedowns": 0,
+                "lane": "JUNGLE",
+                "participantId": 2,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5001,
+                        "flex": 5008,
+                        "offense": 5005
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8008,
+                                    "var1": 108,
+                                    "var2": 7,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 9111,
+                                    "var1": 2504,
+                                    "var2": 680,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 9104,
+                                    "var1": 14,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8014,
+                                    "var1": 1191,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8000
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8138,
+                                    "var1": 18,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8105,
+                                    "var1": 12,
+                                    "var2": 5,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8100
+                        }
+                    ]
+                },
+                "puuid": "7hSyI8OKEFPpadVyhqKmTOJlT6umda2FMt1sAeIcZ1WcxdATw7Tvu4ixaR8llqv9u2qPutnAsL9Shg",
+                "riotIdGameName": "EmmsDK",
+                "riotIdTagline": "EUW",
+                "role": "NONE",
+                "summonerId": "Vsqq7PMeeX0gMBREMy8cTyj1lm_Am_mQCmoK9vzPL31a4sM",
+                "summonerName": "EmmsDK",
+                "teamEarlySurrendered": false,
+                "teamId": 100,
+                "teamPosition": "JUNGLE",
+                "totalAllyJungleMinionsKilled": 92,
+                "totalDamageDealt": 292732,
+                "totalDamageDealtToChampions": 51385,
+                "totalDamageTaken": 49204,
+                "totalEnemyJungleMinionsKilled": 16,
+                "turretTakedowns": 1,
+                "visionScore": 38,
+                "wardsKilled": 2,
+                "wardsPlaced": 9,
+                "win": true
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 0,
+                    "dragonTakedowns": 2,
+                    "goldPerMinute": 362.4719223921983,
+                    "kda": 4.5,
+                    "killParticipation": 0.54,
+                    "killsNearEnemyTurret": 0,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 52,
+                    "maxLevelLeadLaneOpponent": 2,
+                    "soloKills": 0,
+                    "stealthWardsPlaced": 9,
+                    "takedownOnFirstTurret": 1,
+                    "takedowns": 27,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.13115170367183387,
+                    "teamElderDragonKills": 1,
+                    "teamRiftHeraldKills": 0,
+                    "visionScorePerMinute": 0.4070996345262336,
+                    "wardTakedowns": 1
+                },
+                "championName": "Veigar",
+                "damageDealtToBuildings": 2715,
+                "damageDealtToObjectives": 7067,
+                "damageDealtToTurrets": 2715,
+                "goldEarned": 14186,
+                "goldSpent": 11650,
+                "individualPosition": "MIDDLE",
+                "inhibitorTakedowns": 0,
+                "lane": "MIDDLE",
+                "participantId": 3,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5001,
+                        "flex": 5008,
+                        "offense": 5007
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8369,
+                                    "var1": 661,
+                                    "var2": 557,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8304,
+                                    "var1": 11,
+                                    "var2": 1,
+                                    "var3": 5
+                                },
+                                {
+                                    "perk": 8345,
+                                    "var1": 3,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8347,
+                                    "var1": 0,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8300
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8226,
+                                    "var1": 250,
+                                    "var2": 378,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8210,
+                                    "var1": 51,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8200
+                        }
+                    ]
+                },
+                "puuid": "OosGFQGfn836eMPWWHKI4078RDJNVjtEN5rDdfGWkVKE9WQt57XOtBX7dJbKA2gCjvT2B2oKSOPvQA",
+                "riotIdGameName": "MacroDeExcel",
+                "riotIdTagline": "EUW",
+                "role": "SOLO",
+                "summonerId": "Yx2DDT3lwFo8i9XNDs1DBwM5EWGMFBuJBRrS7R4SmQuRW_vGl-mDUzUSBA",
+                "summonerName": "MacroDeExcel",
+                "teamEarlySurrendered": false,
+                "teamId": 100,
+                "teamPosition": "MIDDLE",
+                "totalAllyJungleMinionsKilled": 0,
+                "totalDamageDealt": 147372,
+                "totalDamageDealtToChampions": 19428,
+                "totalDamageTaken": 21154,
+                "totalEnemyJungleMinionsKilled": 0,
+                "turretTakedowns": 1,
+                "visionScore": 15,
+                "wardsKilled": 1,
+                "wardsPlaced": 9,
+                "win": true
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 0,
+                    "dragonTakedowns": 2,
+                    "goldPerMinute": 416.595877634705,
+                    "kda": 5.4,
+                    "killParticipation": 0.54,
+                    "killsNearEnemyTurret": 1,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 43.000000178813934,
+                    "maxLevelLeadLaneOpponent": 2,
+                    "soloKills": 0,
+                    "stealthWardsPlaced": 7,
+                    "takedownOnFirstTurret": 0,
+                    "takedowns": 27,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.24980518958439926,
+                    "teamElderDragonKills": 1,
+                    "teamRiftHeraldKills": 0,
+                    "visionScorePerMinute": 0.3459131017350596,
+                    "wardTakedowns": 0
+                },
+                "championName": "Varus",
+                "damageDealtToBuildings": 3894,
+                "damageDealtToObjectives": 17632,
+                "damageDealtToTurrets": 3894,
+                "goldEarned": 16304,
+                "goldSpent": 11700,
+                "individualPosition": "BOTTOM",
+                "inhibitorTakedowns": 1,
+                "lane": "BOTTOM",
+                "participantId": 4,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5013,
+                        "flex": 5008,
+                        "offense": 5005
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8008,
+                                    "var1": 109,
+                                    "var2": 9,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 9111,
+                                    "var1": 1685,
+                                    "var2": 540,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 9104,
+                                    "var1": 21,
+                                    "var2": 30,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8017,
+                                    "var1": 2690,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8000
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8126,
+                                    "var1": 1031,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8105,
+                                    "var1": 13,
+                                    "var2": 5,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8100
+                        }
+                    ]
+                },
+                "puuid": "GDyaku8KMFbw6-NeobFdpBjk0cH7HeEwcO1O6lJDWx5DlKXBJACwQboLx_8YpwIKIjQajzWtoYjFlQ",
+                "riotIdGameName": "keys710",
+                "riotIdTagline": "EUW",
+                "role": "CARRY",
+                "summonerId": "98v__bUJBxJg8bmS4-S2niX_b9Tv-KdJO6ERRH5lzyDR0iqIeA-rBhk9oA",
+                "summonerName": "keys710",
+                "teamEarlySurrendered": false,
+                "teamId": 100,
+                "teamPosition": "BOTTOM",
+                "totalAllyJungleMinionsKilled": 10,
+                "totalDamageDealt": 237237,
+                "totalDamageDealtToChampions": 37005,
+                "totalDamageTaken": 20524,
+                "totalEnemyJungleMinionsKilled": 33,
+                "turretTakedowns": 2,
+                "visionScore": 13,
+                "wardsKilled": 0,
+                "wardsPlaced": 11,
+                "win": true
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 0,
+                    "dragonTakedowns": 2,
+                    "goldPerMinute": 273.2498964365725,
+                    "kda": 4,
+                    "killParticipation": 0.56,
+                    "killsNearEnemyTurret": 0,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 1,
+                    "maxLevelLeadLaneOpponent": 2,
+                    "soloKills": 0,
+                    "stealthWardsPlaced": 11,
+                    "takedownOnFirstTurret": 0,
+                    "takedowns": 28,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.07648513622436887,
+                    "teamElderDragonKills": 1,
+                    "teamRiftHeraldKills": 0,
+                    "visionScorePerMinute": 0.5059377556708662,
+                    "wardTakedowns": 0
+                },
+                "championName": "Leona",
+                "damageDealtToBuildings": 204,
+                "damageDealtToObjectives": 5496,
+                "damageDealtToTurrets": 204,
+                "goldEarned": 10694,
+                "goldSpent": 9200,
+                "individualPosition": "UTILITY",
+                "inhibitorTakedowns": 1,
+                "lane": "BOTTOM",
+                "participantId": 5,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5001,
+                        "flex": 5001,
+                        "offense": 5007
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8351,
+                                    "var1": 78,
+                                    "var2": 1501,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8306,
+                                    "var1": 0,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8345,
+                                    "var1": 3,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8347,
+                                    "var1": 0,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8300
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8473,
+                                    "var1": 609,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8242,
+                                    "var1": 199,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8400
+                        }
+                    ]
+                },
+                "puuid": "YXHmDXvWI5gKk7U3akJzmYR7-SUqINElADzyjLGaKOQ3uo114kFt0bgb9jfrbFyGv3wJY-fss-iGCA",
+                "riotIdGameName": "Mirapasse",
+                "riotIdTagline": "EUW",
+                "role": "SUPPORT",
+                "summonerId": "GdU7Uyf-nwbgjHORmOobzN2odc0lQnKPEC7LgaC8yyU_lyzP",
+                "summonerName": "Mirapasse",
+                "teamEarlySurrendered": false,
+                "teamId": 100,
+                "teamPosition": "UTILITY",
+                "totalAllyJungleMinionsKilled": 0,
+                "totalDamageDealt": 39793,
+                "totalDamageDealtToChampions": 11330,
+                "totalDamageTaken": 28352,
+                "totalEnemyJungleMinionsKilled": 2,
+                "turretTakedowns": 0,
+                "visionScore": 19,
+                "wardsKilled": 0,
+                "wardsPlaced": 11,
+                "win": true
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 3,
+                    "dragonTakedowns": 1,
+                    "goldPerMinute": 341.22815037683796,
+                    "kda": 2.1,
+                    "killParticipation": 0.5384615384615384,
+                    "killsNearEnemyTurret": 1,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 5,
+                    "maxLevelLeadLaneOpponent": 1,
+                    "soloKills": 2,
+                    "stealthWardsPlaced": 11,
+                    "takedownOnFirstTurret": 0,
+                    "takedowns": 21,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.2339694258412027,
+                    "teamElderDragonKills": 0,
+                    "teamRiftHeraldKills": 1,
+                    "visionScorePerMinute": 0.7274500239114996,
+                    "wardTakedowns": 2
+                },
+                "championName": "Shen",
+                "damageDealtToBuildings": 3713,
+                "damageDealtToObjectives": 6946,
+                "damageDealtToTurrets": 3713,
+                "goldEarned": 13354,
+                "goldSpent": 13605,
+                "individualPosition": "TOP",
+                "inhibitorTakedowns": 0,
+                "lane": "TOP",
+                "participantId": 6,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5013,
+                        "flex": 5008,
+                        "offense": 5005
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8437,
+                                    "var1": 1415,
+                                    "var2": 932,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8401,
+                                    "var1": 1228,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8444,
+                                    "var1": 2234,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8453,
+                                    "var1": 377,
+                                    "var2": 2342,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8400
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8126,
+                                    "var1": 1224,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8106,
+                                    "var1": 5,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8100
+                        }
+                    ]
+                },
+                "puuid": "a8PtUmwWlbJrEzU-nfibnfFXKmsStyk87eyureQ-juwhCH8cT9V7PIro5PogLxdME0DzYgHuuyl-Fg",
+                "riotIdGameName": "L7 Slader",
+                "riotIdTagline": "2004",
+                "role": "SOLO",
+                "summonerId": "4ulIXqS4TtWZLdxyYAy23_-CYZUebX7oGiEZSCTuM-bv9-2U",
+                "summonerName": "KLS RAFINHA333",
+                "teamEarlySurrendered": false,
+                "teamId": 200,
+                "teamPosition": "TOP",
+                "totalAllyJungleMinionsKilled": 0,
+                "totalDamageDealt": 136434,
+                "totalDamageDealtToChampions": 29419,
+                "totalDamageTaken": 44282,
+                "totalEnemyJungleMinionsKilled": 0,
+                "turretTakedowns": 1,
+                "visionScore": 28,
+                "wardsKilled": 2,
+                "wardsPlaced": 14,
+                "win": false
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 0,
+                    "dragonTakedowns": 4,
+                    "goldPerMinute": 408.62315026151975,
+                    "kda": 1.7142857142857142,
+                    "killParticipation": 0.6153846153846154,
+                    "killsNearEnemyTurret": 0,
+                    "killsUnderOwnTurret": 1,
+                    "maxCsAdvantageOnLaneOpponent": 11.99999988079071,
+                    "maxLevelLeadLaneOpponent": 2,
+                    "soloKills": 9,
+                    "stealthWardsPlaced": 13,
+                    "takedownOnFirstTurret": 0,
+                    "takedowns": 24,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.3421237528966346,
+                    "teamElderDragonKills": 0,
+                    "teamRiftHeraldKills": 1,
+                    "visionScorePerMinute": 0.6888761114747397,
+                    "wardTakedowns": 1
+                },
+                "championName": "Khazix",
+                "damageDealtToBuildings": 4923,
+                "damageDealtToObjectives": 63032,
+                "damageDealtToTurrets": 4923,
+                "goldEarned": 15992,
+                "goldSpent": 15470,
+                "individualPosition": "JUNGLE",
+                "inhibitorTakedowns": 0,
+                "lane": "JUNGLE",
+                "participantId": 7,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5001,
+                        "flex": 5008,
+                        "offense": 5008
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8128,
+                                    "var1": 2214,
+                                    "var2": 25,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8143,
+                                    "var1": 1881,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8138,
+                                    "var1": 18,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8135,
+                                    "var1": 450,
+                                    "var2": 5,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8100
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8014,
+                                    "var1": 1048,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 9111,
+                                    "var1": 1985,
+                                    "var2": 480,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8000
+                        }
+                    ]
+                },
+                "puuid": "735uoGC0wWXxRrYW7td31v_tqqAJkVJ3WIwoDAMnOCVvVL6gTw84KV5LFOQpwFkBdPGOQATvkx6ZHw",
+                "riotIdGameName": "L7 Valterinni",
+                "riotIdTagline": "8470",
+                "role": "NONE",
+                "summonerId": "GEzpw6rAaAi2SjTc7bqvBopGbJHpyC39G9Q3dIWw5Wve2xUWbRsR4PIBFQ",
+                "summonerName": "Valterinni",
+                "teamEarlySurrendered": false,
+                "teamId": 200,
+                "teamPosition": "JUNGLE",
+                "totalAllyJungleMinionsKilled": 66,
+                "totalDamageDealt": 225488,
+                "totalDamageDealtToChampions": 43018,
+                "totalDamageTaken": 54179,
+                "totalEnemyJungleMinionsKilled": 14,
+                "turretTakedowns": 1,
+                "visionScore": 26,
+                "wardsKilled": 1,
+                "wardsPlaced": 13,
+                "win": false
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 0,
+                    "dragonTakedowns": 2,
+                    "goldPerMinute": 375.69201495815935,
+                    "kda": 1.875,
+                    "killParticipation": 0.38461538461538464,
+                    "killsNearEnemyTurret": 1,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 10,
+                    "maxLevelLeadLaneOpponent": 1,
+                    "soloKills": 2,
+                    "stealthWardsPlaced": 11,
+                    "takedownOnFirstTurret": 0,
+                    "takedowns": 15,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.16009326236728513,
+                    "teamElderDragonKills": 0,
+                    "teamRiftHeraldKills": 1,
+                    "visionScorePerMinute": 0.4987796864504389,
+                    "wardTakedowns": 2
+                },
+                "championName": "Sylas",
+                "damageDealtToBuildings": 3045,
+                "damageDealtToObjectives": 8193,
+                "damageDealtToTurrets": 3045,
+                "goldEarned": 14703,
+                "goldSpent": 13000,
+                "individualPosition": "MIDDLE",
+                "inhibitorTakedowns": 0,
+                "lane": "MIDDLE",
+                "participantId": 8,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5001,
+                        "flex": 5008,
+                        "offense": 5008
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8010,
+                                    "var1": 362,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8009,
+                                    "var1": 2051,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 9105,
+                                    "var1": 15,
+                                    "var2": 30,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8299,
+                                    "var1": 551,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8000
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8444,
+                                    "var1": 765,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8242,
+                                    "var1": 94,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8400
+                        }
+                    ]
+                },
+                "puuid": "eVreMXaliubuCZDOSDs-HnMy3YSPNa3BoCKTUDDQBx3uotw36LQHmhYoJNWBxy5v0U5Wt_jV0yR80A",
+                "riotIdGameName": "ZiyanLin9",
+                "riotIdTagline": "EUW",
+                "role": "SOLO",
+                "summonerId": "RWqJauSg3_pw7kC4tV0UfkYfpIizEnf3uT5ZRRRni23IgyfRq0qWyz9fAA",
+                "summonerName": "ZiyanLin9",
+                "teamEarlySurrendered": false,
+                "teamId": 200,
+                "teamPosition": "MIDDLE",
+                "totalAllyJungleMinionsKilled": 0,
+                "totalDamageDealt": 151127,
+                "totalDamageDealtToChampions": 20130,
+                "totalDamageTaken": 30715,
+                "totalEnemyJungleMinionsKilled": 0,
+                "turretTakedowns": 1,
+                "visionScore": 19,
+                "wardsKilled": 2,
+                "wardsPlaced": 11,
+                "win": false
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 0,
+                    "dragonTakedowns": 1,
+                    "goldPerMinute": 346.20094326468785,
+                    "kda": 2,
+                    "killParticipation": 0.358974358974359,
+                    "killsNearEnemyTurret": 0,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 9,
+                    "maxLevelLeadLaneOpponent": 2,
+                    "soloKills": 0,
+                    "stealthWardsPlaced": 4,
+                    "takedownOnFirstTurret": 0,
+                    "takedowns": 14,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.1967245759430527,
+                    "teamElderDragonKills": 0,
+                    "teamRiftHeraldKills": 1,
+                    "visionScorePerMinute": 0.2123505303001804,
+                    "wardTakedowns": 1
+                },
+                "championName": "Ezreal",
+                "damageDealtToBuildings": 835,
+                "damageDealtToObjectives": 5430,
+                "damageDealtToTurrets": 835,
+                "goldEarned": 13549,
+                "goldSpent": 13475,
+                "individualPosition": "BOTTOM",
+                "inhibitorTakedowns": 0,
+                "lane": "BOTTOM",
+                "participantId": 9,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5001,
+                        "flex": 5008,
+                        "offense": 5005
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8005,
+                                    "var1": 811,
+                                    "var2": 367,
+                                    "var3": 444
+                                },
+                                {
+                                    "perk": 8009,
+                                    "var1": 1548,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 9103,
+                                    "var1": 26,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8014,
+                                    "var1": 563,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8000
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8304,
+                                    "var1": 12,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8345,
+                                    "var1": 3,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8300
+                        }
+                    ]
+                },
+                "puuid": "esX_22maBbJu3Sf7pHod9r65uxnslhai-EnVbgIGjdC4XhW3_5Pocq561XKKt80bZlP5CPvJ3kCoow",
+                "riotIdGameName": "sia",
+                "riotIdTagline": "kiwi",
+                "role": "CARRY",
+                "summonerId": "A_FrlWDE4M4u7kZjHfVxUux_1eNqbvigzEA4P-DStVdt__qC3G-DIzMaIA",
+                "summonerName": "Siaphy",
+                "teamEarlySurrendered": false,
+                "teamId": 200,
+                "teamPosition": "BOTTOM",
+                "totalAllyJungleMinionsKilled": 0,
+                "totalDamageDealt": 136506,
+                "totalDamageDealtToChampions": 24736,
+                "totalDamageTaken": 27382,
+                "totalEnemyJungleMinionsKilled": 0,
+                "turretTakedowns": 1,
+                "visionScore": 8,
+                "wardsKilled": 1,
+                "wardsPlaced": 4,
+                "win": false
+            },
+            {
+                "challenges": {
+                    "controlWardsPlaced": 0,
+                    "dragonTakedowns": 3,
+                    "goldPerMinute": 233.01781767183343,
+                    "kda": 1.0909090909090908,
+                    "killParticipation": 0.3076923076923077,
+                    "killsNearEnemyTurret": 0,
+                    "killsUnderOwnTurret": 0,
+                    "maxCsAdvantageOnLaneOpponent": 18,
+                    "maxLevelLeadLaneOpponent": 1,
+                    "soloKills": 0,
+                    "stealthWardsPlaced": 20,
+                    "takedownOnFirstTurret": 1,
+                    "takedowns": 12,
+                    "teamBaronKills": 1,
+                    "teamDamagePercentage": 0.06708898295182485,
+                    "teamElderDragonKills": 0,
+                    "teamRiftHeraldKills": 1,
+                    "visionScorePerMinute": 1.0122882922450407,
+                    "wardTakedowns": 0
+                },
+                "championName": "Nautilus",
+                "damageDealtToBuildings": 388,
+                "damageDealtToObjectives": 2362,
+                "damageDealtToTurrets": 388,
+                "goldEarned": 9119,
+                "goldSpent": 8200,
+                "individualPosition": "UTILITY",
+                "inhibitorTakedowns": 0,
+                "lane": "BOTTOM",
+                "participantId": 10,
+                "perks": {
+                    "statPerks": {
+                        "defense": 5001,
+                        "flex": 5001,
+                        "offense": 5005
+                    },
+                    "styles": [
+                        {
+                            "description": "primaryStyle",
+                            "selections": [
+                                {
+                                    "perk": 8351,
+                                    "var1": 88,
+                                    "var2": 2290,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8306,
+                                    "var1": 0,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8345,
+                                    "var1": 3,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8347,
+                                    "var1": 0,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8300
+                        },
+                        {
+                            "description": "subStyle",
+                            "selections": [
+                                {
+                                    "perk": 8473,
+                                    "var1": 803,
+                                    "var2": 0,
+                                    "var3": 0
+                                },
+                                {
+                                    "perk": 8242,
+                                    "var1": 175,
+                                    "var2": 0,
+                                    "var3": 0
+                                }
+                            ],
+                            "style": 8400
+                        }
+                    ]
+                },
+                "puuid": "pnMNfdDjM97Gr0Qh67jTzEEfLefEI8qjsBxmojuIqGp7cpQPWeBBZ6jfv_UUeV3DqvUg06Rk3lphTg",
+                "riotIdGameName": "Taiga",
+                "riotIdTagline": "SKL",
+                "role": "SUPPORT",
+                "summonerId": "mVrKUIfiuhxD9MCxvWpM0viGeEaqxB_2tw-fB_ZPJA3nGbKVu03TL2DONg",
+                "summonerName": "skltaiga",
+                "teamEarlySurrendered": false,
+                "teamId": 200,
+                "teamPosition": "UTILITY",
+                "totalAllyJungleMinionsKilled": 0,
+                "totalDamageDealt": 49897,
+                "totalDamageDealtToChampions": 8435,
+                "totalDamageTaken": 35112,
+                "totalEnemyJungleMinionsKilled": 0,
+                "turretTakedowns": 1,
+                "visionScore": 39,
+                "wardsKilled": 0,
+                "wardsPlaced": 20,
+                "win": false
+            }
+        ]
+    }
+}
